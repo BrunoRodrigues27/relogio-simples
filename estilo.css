@@ -1,0 +1,35 @@
+body {
+    background-color: rgb(111, 111, 236);
+    font-size: 2em;
+    display: flex;
+    flex-flow: column;
+    align-items: center;
+}
+
+h1 {
+    color: rgb(0, 0, 0);
+}
+
+section {
+    margin-top: 30px;
+    padding-bottom: 15px;
+    padding-left: 15px;
+    padding-right: 15px;
+    text-align: center;
+    color: rgb(0, 0, 0);
+    border: 1px solid;
+    border-radius: 10px;
+    background: rgba(255, 255, 255, 0.144);
+    
+}
+
+img {
+    width: 300px;
+    height: 300px;
+    margin-top: 40px;
+    margin-bottom: 10px;
+}
+
+footer {
+    color: rgb(0, 0, 0);
+}
