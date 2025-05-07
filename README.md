@@ -1,32 +1,49 @@
-🕒 Relógio Simples
-Este projeto é um relógio digital simples feito com HTML, CSS e JavaScript. Ele exibe em tempo real as horas, minutos e segundos diretamente no navegador, com um visual limpo e centralizado. Ideal para quem está começando a aprender sobre manipulação do DOM e funções de tempo no JavaScript. 💻
+# 🕒 Relógio Simples
 
-🔧 Funcionalidades
-Exibição da hora atual em tempo real ⏱️
+Este é um projeto de **relógio digital simples**, desenvolvido com HTML, CSS e JavaScript. Ele exibe a hora atual em tempo real diretamente no navegador, com um visual limpo e centralizado.💡
 
-Atualização automática a cada segundo 🔁
+---
 
-Visual limpo e responsivo 🎨
+## 🔍 Funcionalidades
 
-Compatível com todos os navegadores modernos 🌐
+- 🕐 Exibe horas, minutos e segundos em tempo real
+- 🔁 Atualização automática a cada segundo
+- 🎨 Interface limpa e centralizada
+- 🌐 Acessível via navegador, sem instalação
 
-🛠️ Tecnologias Utilizadas
-HTML5
+---
 
-CSS3
+## 💻 Tecnologias Utilizadas
 
-JavaScript puro
+- HTML5
+- CSS3
+- JavaScript (puro)
 
-🚀 Como Executar
-Você pode acessar o projeto diretamente pelo GitHub Pages neste link:
-👉 https://brunorodrigues27.github.io/relogio-simples/
+---
 
-Ou, se preferir, pode baixar os arquivos diretamente do repositório, abrir o arquivo index.html em qualquer navegador e o relógio estará funcionando. Não precisa instalar nada! ✅
+## 🚀 Como Executar
 
-📸 Prévia
-Adicione aqui uma imagem do projeto funcionando (print da tela), caso deseje.
+1. Acesse o site diretamente via GitHub Pages:  
+   👉 [https://brunorodrigues27.github.io/relogio-simples/](https://brunorodrigues27.github.io/relogio-simples/)
 
-👨‍💻 Autor
-Projeto desenvolvido por Bruno Rodrigues.
-Fique à vontade para usar, estudar, modificar ou compartilhar. 😄
+2. **Ou** copie os arquivos do repositório para sua máquina:
+   - Baixe ou clone este repositório
+   - Abra o arquivo `index.html` em qualquer navegador
 
+✅ Pronto! O relógio funcionará automaticamente.
+
+---
+
+## 👨‍💻 Autor
+
+Desenvolvido por [Bruno Rodrigues Gonçalves de Oliveira](https://github.com/brunorodrigues27) 💙  
+Sinta-se à vontade para clonar, modificar e compartilhar o projeto!
+
+---
+
+## 📄 Licença
+
+Este projeto está licenciado sob a **MIT License**.  
+Use como quiser, com créditos ao autor. 😉
+
+---
